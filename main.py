@@ -20,7 +20,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot tokeningizni bu yerga qo'ying
-BOT_TOKEN = "8157560190:AAE7KcQ_fzLGqpeADODivi1NPR-ztZT5g9c"
+BOT_TOKEN = "8581891747:AAEXm4EKdTBm96l5xwBQ5wBuHrGn8TF0FHk"
 
 # Papkalar
 TEMP_DIR = "temp_images"
@@ -780,4 +780,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
